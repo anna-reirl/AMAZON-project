@@ -1,7 +1,7 @@
 <h1 align='center'>🛒 Amazon</h1>
 
-
 <p align='center'>It's a app that have some basic funcionalities from Amazon</p>
+
 ## Building
 You must have [Node.js](https://nodejs.org) installed on your computer
 
